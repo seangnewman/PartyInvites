@@ -6,3 +6,7 @@ that allows her invitees to electronically RSVP. She has asked for these four ke
 ### A form that can be used to RSVP
 ### Validation for the RSVP form, which will display a thank-you page
 ### A summary page that shows who is coming to the party
+
+#### From 
+Pro ASP.NET Core MVC, Sixth Edition
+by Adam Freeman
