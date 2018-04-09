@@ -1,5 +1,6 @@
 # PartyInvites
-Setting the SceneImagine that a friend has decided to host a New Year’s Eve party and that she has asked me to create a web app 
+## Setting the Scene
+Imagine that a friend has decided to host a New Year’s Eve party and that she has asked me to create a web app 
 that allows her invitees to electronically RSVP. She has asked for these four key features:        
 ### A home page that shows information about the party
 ### A form that can be used to RSVP
